@@ -1,2 +1,6 @@
+
 git config --global user.email "jasmin.martinez0292@stu.mtec.edu"
 git config --global user.name "jasmin martinez"
+git remote add origin github.com
+git push
+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 
